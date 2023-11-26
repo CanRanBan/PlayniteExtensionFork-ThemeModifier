@@ -286,7 +286,7 @@
       <Version>2.1.0.227</Version>
     </PackageReference>
     <PackageReference Include="YamlDotNet">
-      <Version>5.4.0</Version>
+      <Version>13.7.1</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="..\include\PluginCommon\CommonPlayniteShared\CommonPlayniteShared.projitems" Label="Shared" />
