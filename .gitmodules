@@ -1,4 +1,0 @@
-[submodule "include/PluginCommon"]
-	path = include/PluginCommon
-	url = https://github.com/CanRanBan/PlayniteExtensionFork-Module-Lacro59-PluginCommon.git
-	branch = LocalBuild
